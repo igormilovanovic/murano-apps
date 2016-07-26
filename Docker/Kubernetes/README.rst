@@ -30,7 +30,7 @@ which creates and maintain fixed number of pod clones. In Murano replica
 count is a property of KubernetesPod.
 
 For a more in-depth review of Kubernetes please refer to official
-`documentation <http://kubernetes.io/v1.1/docs/user-guide/README.html>`_.
+`documentation <http://kubernetes.io/docs/user-guide/>`_.
 
 
 How murano installs Kubernetes
